@@ -1,5 +1,11 @@
 # Windows Company Screensaver
 
+
+![PowerShell](https://img.shields.io/badge/PowerShell-Script-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
+
 > PowerShell-based solution for creating and deploying a custom company logo screensaver in a Windows domain environment.
 
 ---
