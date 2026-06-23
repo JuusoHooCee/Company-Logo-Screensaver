@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This project provides a script that:
 
@@ -21,7 +21,7 @@ This project provides a script that:
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - PowerShell
 - C# (compiled dynamically)
@@ -30,7 +30,7 @@ This project provides a script that:
 
 ---
 
-## 🖼️ How it works
+##  How it works
 
 1. The script generates a C# application  
 2. The application displays a custom image fullscreen  
@@ -41,14 +41,14 @@ This project provides a script that:
 
 ---
 
-## 📂 Requirements
+##  Requirements
 
 - Windows system  
 - Administrator privileges (required for System32 copy)  
 
 ---
 
-## ⚙️ Usage
+##  Usage
 
 1. Place your logo file in:  
    `C:\Users\Public\Pictures\Screensaver\`
@@ -64,7 +64,7 @@ This project provides a script that:
 
 ---
 
-## 🧠 Domain Deployment (Important)
+##  Domain Deployment (Important)
 
 This script only builds the screensaver.
 
@@ -81,7 +81,7 @@ See detailed instructions in:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Multi-monitor support  
 - Clean fullscreen rendering  
@@ -91,7 +91,7 @@ See detailed instructions in:
 
 ---
 
-## ⚠️ Notes
+##  Notes
 
 - Requires admin rights for installation  
 - Do not include sensitive company data in scripts  
