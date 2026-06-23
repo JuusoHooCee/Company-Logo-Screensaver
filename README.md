@@ -1,4 +1,4 @@
-# Windows Company Screensaver
+# Company Logo Screensaver
 
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-Script-blue)
